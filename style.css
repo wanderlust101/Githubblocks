@@ -1,0 +1,44 @@
+.maincontainer{
+    height: 1000px;
+    width: 840px;
+    background-color: seashell;
+    font-family: Georgia, 'Times New Roman', Times, serif, Geneva, Georgia, 'Times New Roman', Times, serif, sans-serif;
+    text-align: center;
+    font-size: 22px;
+
+}
+
+img{
+    height: 200px;
+    width: 200px;
+}
+
+.container1{
+    height: 200px;
+    width: 800px;
+    background-color: whitesmoke;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 22px;
+}
+
+.container2{
+    height: 200px;
+    width: 800px;
+    background-color: oldlace;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 22px;
+}
+
+.container3{
+    height: 200px;
+    width: 800px;
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 22px;
+}
